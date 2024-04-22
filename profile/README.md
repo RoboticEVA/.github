@@ -66,6 +66,7 @@ like Adam and Eve, and the potential of AI companionship.
 ![The_Creation_of_Adam](https://github.com/RoboticEVA/.github/assets/41600149/3348eaa2-cb38-40fb-8a06-feb91a310b5f)
 ![The_Rebuke_of_Adam_and_Eve_MET_DT5746](https://github.com/RoboticEVA/.github/assets/41600149/608d241b-c9e5-44e7-981e-c4b9774e7610)
 ![B_Escorial_18](https://github.com/RoboticEVA/.github/assets/41600149/54f4daeb-cd9c-4ef2-9396-58d929c93d61)
+![Peter_Paul_Rubens_004](https://github.com/RoboticEVA/.github/assets/41600149/2409e67e-1b61-4bd3-88ca-d25c2df0d3f6)
 
 [Yin and yang - Wikipedia](https://en.wikipedia.org/wiki/Yin_and_yang)
 
