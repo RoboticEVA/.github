@@ -60,7 +60,9 @@ like Adam and Eve, and the potential of AI companionship.
 > Note: I did not create these images:
 
 [Here's What Nobody Told You About Adam And Eve](https://www.youtube.com/watch?v=DXxZ7RMHt4g)
+
 [Adam and Eve - Wikipedia](https://en.wikipedia.org/wiki/Adam_and_Eve)
+
 [Adam and Eve Mk.II | Animated Sci-Fi Student Short-Film | Unreal Engine 4](https://www.youtube.com/watch?v=bduG9lDlpJU)
 
 ![The_Creation_of_Adam](https://github.com/RoboticEVA/.github/assets/41600149/3348eaa2-cb38-40fb-8a06-feb91a310b5f)
@@ -75,6 +77,7 @@ like Adam and Eve, and the potential of AI companionship.
 ![Yin_and_Yang4](https://github.com/RoboticEVA/.github/assets/41600149/f0de0522-1b1f-4b4d-a825-c57a71409646)![Yin_and_Yang3](https://github.com/RoboticEVA/.github/assets/41600149/3a7ad345-2246-455d-82e4-79a354498545)
 
 [REASONS WHY GOD CREATED ADAM AND EVE THE WAY HE DID](https://www.heroesbibletrivia.org/en/god-created-adam-and-eve-differently/)
+
 [Myth: The left and the right brain hemisphere are fundamentally different](https://www.sciencenordic.com/brain-denmark-health/myth-the-left-and-the-right-brain-hemisphere-are-fundamentally-different/1856377)
 
 ![LeftvsRight4](https://github.com/RoboticEVA/.github/assets/41600149/81fb973e-7b5d-4e96-a11c-5b0830435468)
