@@ -1,8 +1,7 @@
-![RoboticEVA](https://github.com/RoboticEVA/.github/assets/41600149/f593eb84-e08f-4481-baa0-fe1daccac463)# RoboticEVA
+# RoboticEVA
 ## Advancing Human-Computer Interaction through Dual AI Companions
 ### Humans & Robots Working Together, NOT Taking Over!
 # https://www.RoboticEVA.com
-![RoboticEVA](https://github.com/RoboticEVA/.github/assets/41600149/c74ae7c6-1de5-4b39-96be-1774aa642fb1)
 ![image](https://github.com/RoboticEVA/.github/assets/41600149/71c2d864-e90c-4b41-9f41-ba64c3cd30b7)
 ![image](https://github.com/RoboticEVA/.github/assets/41600149/2e07ce61-f853-4865-8b45-a01ec8351437)
 
@@ -109,3 +108,4 @@ Email me at burgil@roboticeva.com!
 ## ROB and EVA - The Rise of Robots
 
 ![rob eva](https://github.com/RoboticEVA/.github/assets/41600149/5bb2b214-70a1-4eed-890f-e91a77fa7997)
+![RoboticEVA](https://github.com/RoboticEVA/.github/assets/41600149/c74ae7c6-1de5-4b39-96be-1774aa642fb1)
