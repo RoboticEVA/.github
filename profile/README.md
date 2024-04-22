@@ -1,7 +1,8 @@
-# RoboticEVA
+![RoboticEVA](https://github.com/RoboticEVA/.github/assets/41600149/f593eb84-e08f-4481-baa0-fe1daccac463)# RoboticEVA
 ## Advancing Human-Computer Interaction through Dual AI Companions
 ### Humans & Robots Working Together, NOT Taking Over!
 # https://www.RoboticEVA.com
+![RoboticEVA](https://github.com/RoboticEVA/.github/assets/41600149/c74ae7c6-1de5-4b39-96be-1774aa642fb1)
 ![image](https://github.com/RoboticEVA/.github/assets/41600149/71c2d864-e90c-4b41-9f41-ba64c3cd30b7)
 ![image](https://github.com/RoboticEVA/.github/assets/41600149/2e07ce61-f853-4865-8b45-a01ec8351437)
 
@@ -57,6 +58,32 @@ Allowing AI's to control multiple windows at the same time without interfering w
 
 like Adam and Eve, and the potential of AI companionship.
 
+> Note: I did not create these images:
+
+[Here's What Nobody Told You About Adam And Eve](https://www.youtube.com/watch?v=DXxZ7RMHt4g)
+[Adam and Eve - Wikipedia](https://en.wikipedia.org/wiki/Adam_and_Eve)
+[Adam and Eve Mk.II | Animated Sci-Fi Student Short-Film | Unreal Engine 4](https://www.youtube.com/watch?v=bduG9lDlpJU)
+
+![The_Creation_of_Adam](https://github.com/RoboticEVA/.github/assets/41600149/3348eaa2-cb38-40fb-8a06-feb91a310b5f)
+![The_Rebuke_of_Adam_and_Eve_MET_DT5746](https://github.com/RoboticEVA/.github/assets/41600149/608d241b-c9e5-44e7-981e-c4b9774e7610)
+![B_Escorial_18](https://github.com/RoboticEVA/.github/assets/41600149/54f4daeb-cd9c-4ef2-9396-58d929c93d61)
+
+[Yin and yang - Wikipedia](https://en.wikipedia.org/wiki/Yin_and_yang)
+
+![Yin_and_Yang2](https://github.com/RoboticEVA/.github/assets/41600149/ef75d1a9-386d-48d5-b3d0-15f4e46b5d81)![Yin_and_Yang1](https://github.com/RoboticEVA/.github/assets/41600149/e3add06a-e440-468b-bb7e-09cb325f8404)
+
+![Yin_and_Yang4](https://github.com/RoboticEVA/.github/assets/41600149/f0de0522-1b1f-4b4d-a825-c57a71409646)![Yin_and_Yang3](https://github.com/RoboticEVA/.github/assets/41600149/3a7ad345-2246-455d-82e4-79a354498545)
+
+[REASONS WHY GOD CREATED ADAM AND EVE THE WAY HE DID](https://www.heroesbibletrivia.org/en/god-created-adam-and-eve-differently/)
+[Myth: The left and the right brain hemisphere are fundamentally different](https://www.sciencenordic.com/brain-denmark-health/myth-the-left-and-the-right-brain-hemisphere-are-fundamentally-different/1856377)
+
+![LeftvsRight4](https://github.com/RoboticEVA/.github/assets/41600149/81fb973e-7b5d-4e96-a11c-5b0830435468)
+![LeftvsRight3](https://github.com/RoboticEVA/.github/assets/41600149/440aa8bc-c2ff-424c-bc47-69d4196d8077)
+![LeftvsRight2](https://github.com/RoboticEVA/.github/assets/41600149/62289970-0296-4300-bed9-054b84c06f47)
+![image](https://github.com/RoboticEVA/.github/assets/41600149/9612acdd-f746-4bbf-88cb-4c6554ac1da3)
+
+[Full interview: "Godfather of artificial intelligence" talks impact and potential of AI](https://www.youtube.com/watch?v=qpoRO378qRY)
+
 # I'm excited to share that I'm developing a groundbreaking system featuring dual AI companions:
 
 ## ROB (Robotic Operations Brain)
@@ -80,3 +107,5 @@ Together, let's embrace the possibilities of collaboration and redefine the narr
 Email me at burgil@roboticeva.com!
 
 ## ROB and EVA - The Rise of Robots
+
+![rob eva](https://github.com/RoboticEVA/.github/assets/41600149/5bb2b214-70a1-4eed-890f-e91a77fa7997)
